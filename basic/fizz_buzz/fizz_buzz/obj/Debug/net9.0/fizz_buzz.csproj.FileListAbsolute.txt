@@ -1,0 +1,15 @@
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\problem_solving\fizz_buzz\fizz_buzz\bin\Debug\net9.0\fizz_buzz.exe
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\problem_solving\fizz_buzz\fizz_buzz\bin\Debug\net9.0\fizz_buzz.deps.json
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\problem_solving\fizz_buzz\fizz_buzz\bin\Debug\net9.0\fizz_buzz.runtimeconfig.json
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\problem_solving\fizz_buzz\fizz_buzz\bin\Debug\net9.0\fizz_buzz.dll
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\problem_solving\fizz_buzz\fizz_buzz\bin\Debug\net9.0\fizz_buzz.pdb
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\problem_solving\fizz_buzz\fizz_buzz\obj\Debug\net9.0\fizz_buzz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\problem_solving\fizz_buzz\fizz_buzz\obj\Debug\net9.0\fizz_buzz.AssemblyInfoInputs.cache
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\problem_solving\fizz_buzz\fizz_buzz\obj\Debug\net9.0\fizz_buzz.AssemblyInfo.cs
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\problem_solving\fizz_buzz\fizz_buzz\obj\Debug\net9.0\fizz_buzz.csproj.CoreCompileInputs.cache
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\problem_solving\fizz_buzz\fizz_buzz\obj\Debug\net9.0\fizz_buzz.sourcelink.json
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\problem_solving\fizz_buzz\fizz_buzz\obj\Debug\net9.0\fizz_buzz.dll
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\problem_solving\fizz_buzz\fizz_buzz\obj\Debug\net9.0\refint\fizz_buzz.dll
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\problem_solving\fizz_buzz\fizz_buzz\obj\Debug\net9.0\fizz_buzz.pdb
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\problem_solving\fizz_buzz\fizz_buzz\obj\Debug\net9.0\fizz_buzz.genruntimeconfig.cache
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\problem_solving\fizz_buzz\fizz_buzz\obj\Debug\net9.0\ref\fizz_buzz.dll

@@ -1,0 +1,15 @@
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\problem_solving\factorial\fac\bin\Debug\net9.0\fac.exe
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\problem_solving\factorial\fac\bin\Debug\net9.0\fac.deps.json
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\problem_solving\factorial\fac\bin\Debug\net9.0\fac.runtimeconfig.json
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\problem_solving\factorial\fac\bin\Debug\net9.0\fac.dll
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\problem_solving\factorial\fac\bin\Debug\net9.0\fac.pdb
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\problem_solving\factorial\fac\obj\Debug\net9.0\fac.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\problem_solving\factorial\fac\obj\Debug\net9.0\fac.AssemblyInfoInputs.cache
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\problem_solving\factorial\fac\obj\Debug\net9.0\fac.AssemblyInfo.cs
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\problem_solving\factorial\fac\obj\Debug\net9.0\fac.csproj.CoreCompileInputs.cache
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\problem_solving\factorial\fac\obj\Debug\net9.0\fac.sourcelink.json
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\problem_solving\factorial\fac\obj\Debug\net9.0\fac.dll
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\problem_solving\factorial\fac\obj\Debug\net9.0\refint\fac.dll
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\problem_solving\factorial\fac\obj\Debug\net9.0\fac.pdb
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\problem_solving\factorial\fac\obj\Debug\net9.0\fac.genruntimeconfig.cache
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\problem_solving\factorial\fac\obj\Debug\net9.0\ref\fac.dll
