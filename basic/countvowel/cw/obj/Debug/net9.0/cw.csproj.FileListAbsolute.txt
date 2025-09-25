@@ -1,0 +1,15 @@
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\csharp_practice\basic\countvowel\cw\bin\Debug\net9.0\cw.exe
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\csharp_practice\basic\countvowel\cw\bin\Debug\net9.0\cw.deps.json
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\csharp_practice\basic\countvowel\cw\bin\Debug\net9.0\cw.runtimeconfig.json
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\csharp_practice\basic\countvowel\cw\bin\Debug\net9.0\cw.dll
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\csharp_practice\basic\countvowel\cw\bin\Debug\net9.0\cw.pdb
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\csharp_practice\basic\countvowel\cw\obj\Debug\net9.0\cw.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\csharp_practice\basic\countvowel\cw\obj\Debug\net9.0\cw.AssemblyInfoInputs.cache
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\csharp_practice\basic\countvowel\cw\obj\Debug\net9.0\cw.AssemblyInfo.cs
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\csharp_practice\basic\countvowel\cw\obj\Debug\net9.0\cw.csproj.CoreCompileInputs.cache
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\csharp_practice\basic\countvowel\cw\obj\Debug\net9.0\cw.sourcelink.json
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\csharp_practice\basic\countvowel\cw\obj\Debug\net9.0\cw.dll
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\csharp_practice\basic\countvowel\cw\obj\Debug\net9.0\refint\cw.dll
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\csharp_practice\basic\countvowel\cw\obj\Debug\net9.0\cw.pdb
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\csharp_practice\basic\countvowel\cw\obj\Debug\net9.0\cw.genruntimeconfig.cache
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\csharp_practice\basic\countvowel\cw\obj\Debug\net9.0\ref\cw.dll
