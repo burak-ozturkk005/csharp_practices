@@ -1,0 +1,15 @@
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\csharp_practice\basic\string-reverse\sr\bin\Debug\net9.0\sr.exe
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\csharp_practice\basic\string-reverse\sr\bin\Debug\net9.0\sr.deps.json
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\csharp_practice\basic\string-reverse\sr\bin\Debug\net9.0\sr.runtimeconfig.json
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\csharp_practice\basic\string-reverse\sr\bin\Debug\net9.0\sr.dll
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\csharp_practice\basic\string-reverse\sr\bin\Debug\net9.0\sr.pdb
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\csharp_practice\basic\string-reverse\sr\obj\Debug\net9.0\sr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\csharp_practice\basic\string-reverse\sr\obj\Debug\net9.0\sr.AssemblyInfoInputs.cache
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\csharp_practice\basic\string-reverse\sr\obj\Debug\net9.0\sr.AssemblyInfo.cs
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\csharp_practice\basic\string-reverse\sr\obj\Debug\net9.0\sr.csproj.CoreCompileInputs.cache
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\csharp_practice\basic\string-reverse\sr\obj\Debug\net9.0\sr.sourcelink.json
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\csharp_practice\basic\string-reverse\sr\obj\Debug\net9.0\sr.dll
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\csharp_practice\basic\string-reverse\sr\obj\Debug\net9.0\refint\sr.dll
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\csharp_practice\basic\string-reverse\sr\obj\Debug\net9.0\sr.pdb
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\csharp_practice\basic\string-reverse\sr\obj\Debug\net9.0\sr.genruntimeconfig.cache
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\csharp_practice\basic\string-reverse\sr\obj\Debug\net9.0\ref\sr.dll
