@@ -1,0 +1,14 @@
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\oop-exercises\basicexp\bin\Debug\net9.0\basicexp.exe
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\oop-exercises\basicexp\bin\Debug\net9.0\basicexp.deps.json
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\oop-exercises\basicexp\bin\Debug\net9.0\basicexp.runtimeconfig.json
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\oop-exercises\basicexp\bin\Debug\net9.0\basicexp.dll
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\oop-exercises\basicexp\bin\Debug\net9.0\basicexp.pdb
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\oop-exercises\basicexp\obj\Debug\net9.0\basicexp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\oop-exercises\basicexp\obj\Debug\net9.0\basicexp.AssemblyInfoInputs.cache
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\oop-exercises\basicexp\obj\Debug\net9.0\basicexp.AssemblyInfo.cs
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\oop-exercises\basicexp\obj\Debug\net9.0\basicexp.csproj.CoreCompileInputs.cache
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\oop-exercises\basicexp\obj\Debug\net9.0\basicexp.dll
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\oop-exercises\basicexp\obj\Debug\net9.0\refint\basicexp.dll
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\oop-exercises\basicexp\obj\Debug\net9.0\basicexp.pdb
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\oop-exercises\basicexp\obj\Debug\net9.0\basicexp.genruntimeconfig.cache
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\oop-exercises\basicexp\obj\Debug\net9.0\ref\basicexp.dll

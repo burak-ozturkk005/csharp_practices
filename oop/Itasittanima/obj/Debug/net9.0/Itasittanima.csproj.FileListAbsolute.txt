@@ -1,0 +1,14 @@
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\oop-projects\Itasittanima\bin\Debug\net9.0\Itasittanima.exe
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\oop-projects\Itasittanima\bin\Debug\net9.0\Itasittanima.deps.json
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\oop-projects\Itasittanima\bin\Debug\net9.0\Itasittanima.runtimeconfig.json
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\oop-projects\Itasittanima\bin\Debug\net9.0\Itasittanima.dll
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\oop-projects\Itasittanima\bin\Debug\net9.0\Itasittanima.pdb
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\oop-projects\Itasittanima\obj\Debug\net9.0\Itasittanima.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\oop-projects\Itasittanima\obj\Debug\net9.0\Itasittanima.AssemblyInfoInputs.cache
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\oop-projects\Itasittanima\obj\Debug\net9.0\Itasittanima.AssemblyInfo.cs
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\oop-projects\Itasittanima\obj\Debug\net9.0\Itasittanima.csproj.CoreCompileInputs.cache
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\oop-projects\Itasittanima\obj\Debug\net9.0\Itasittanima.dll
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\oop-projects\Itasittanima\obj\Debug\net9.0\refint\Itasittanima.dll
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\oop-projects\Itasittanima\obj\Debug\net9.0\Itasittanima.pdb
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\oop-projects\Itasittanima\obj\Debug\net9.0\Itasittanima.genruntimeconfig.cache
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\oop-projects\Itasittanima\obj\Debug\net9.0\ref\Itasittanima.dll
