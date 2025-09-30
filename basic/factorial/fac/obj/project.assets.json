@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\burak\\OneDrive\\Masaüstü\\yazılım\\chsarp\\fundamentals\\CSharp_Fundamentals\\problem_solving\\factorial\\fac\\fac.csproj",
+      "projectUniqueName": "C:\\Users\\burak\\OneDrive\\Masaüstü\\yazılım\\chsarp\\csharp_practice\\basic\\factorial\\fac\\fac.csproj",
       "projectName": "fac",
-      "projectPath": "C:\\Users\\burak\\OneDrive\\Masaüstü\\yazılım\\chsarp\\fundamentals\\CSharp_Fundamentals\\problem_solving\\factorial\\fac\\fac.csproj",
+      "projectPath": "C:\\Users\\burak\\OneDrive\\Masaüstü\\yazılım\\chsarp\\csharp_practice\\basic\\factorial\\fac\\fac.csproj",
       "packagesPath": "C:\\Users\\burak\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\burak\\OneDrive\\Masaüstü\\yazılım\\chsarp\\fundamentals\\CSharp_Fundamentals\\problem_solving\\factorial\\fac\\obj\\",
+      "outputPath": "C:\\Users\\burak\\OneDrive\\Masaüstü\\yazılım\\chsarp\\csharp_practice\\basic\\factorial\\fac\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

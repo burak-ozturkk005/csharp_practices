@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\burak\\OneDrive\\Masa\u00FCst\u00FC\\yaz\u0131l\u0131m\\chsarp\\fundamentals\\CSharp_Fundamentals\\problem_solving\\factorial\\fac\\",
+  "WorkspaceRootPath": "C:\\Users\\burak\\OneDrive\\Masa\u00FCst\u00FC\\yaz\u0131l\u0131m\\chsarp\\csharp_practice\\basic\\factorial\\fac\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8FCA11C4-326E-487D-B3D8-491B4CCE535B}|fac.csproj|c:\\users\\burak\\onedrive\\masa\u00FCst\u00FC\\yaz\u0131l\u0131m\\chsarp\\fundamentals\\csharp_fundamentals\\problem_solving\\factorial\\fac\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8FCA11C4-326E-487D-B3D8-491B4CCE535B}|fac.csproj|c:\\users\\burak\\onedrive\\masa\u00FCst\u00FC\\yaz\u0131l\u0131m\\chsarp\\csharp_practice\\basic\\factorial\\fac\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8FCA11C4-326E-487D-B3D8-491B4CCE535B}|fac.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\burak\\OneDrive\\Masa\u00FCst\u00FC\\yaz\u0131l\u0131m\\chsarp\\fundamentals\\CSharp_Fundamentals\\problem_solving\\factorial\\fac\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\burak\\OneDrive\\Masa\u00FCst\u00FC\\yaz\u0131l\u0131m\\chsarp\\csharp_practice\\basic\\factorial\\fac\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\burak\\OneDrive\\Masa\u00FCst\u00FC\\yaz\u0131l\u0131m\\chsarp\\fundamentals\\CSharp_Fundamentals\\problem_solving\\factorial\\fac\\Program.cs",
+              "ToolTip": "C:\\Users\\burak\\OneDrive\\Masa\u00FCst\u00FC\\yaz\u0131l\u0131m\\chsarp\\csharp_practice\\basic\\factorial\\fac\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAxwA8AAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-21T02:08:43.889Z",
               "EditorCaption": ""
