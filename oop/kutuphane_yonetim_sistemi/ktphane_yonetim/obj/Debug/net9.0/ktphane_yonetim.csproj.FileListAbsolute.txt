@@ -1,0 +1,15 @@
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\csharp_practice\oop\kutuphane_yonetim_sistemi\ktphane_yonetim\bin\Debug\net9.0\ktphane_yonetim.exe
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\csharp_practice\oop\kutuphane_yonetim_sistemi\ktphane_yonetim\bin\Debug\net9.0\ktphane_yonetim.deps.json
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\csharp_practice\oop\kutuphane_yonetim_sistemi\ktphane_yonetim\bin\Debug\net9.0\ktphane_yonetim.runtimeconfig.json
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\csharp_practice\oop\kutuphane_yonetim_sistemi\ktphane_yonetim\bin\Debug\net9.0\ktphane_yonetim.dll
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\csharp_practice\oop\kutuphane_yonetim_sistemi\ktphane_yonetim\bin\Debug\net9.0\ktphane_yonetim.pdb
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\csharp_practice\oop\kutuphane_yonetim_sistemi\ktphane_yonetim\obj\Debug\net9.0\ktphane_yonetim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\csharp_practice\oop\kutuphane_yonetim_sistemi\ktphane_yonetim\obj\Debug\net9.0\ktphane_yonetim.AssemblyInfoInputs.cache
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\csharp_practice\oop\kutuphane_yonetim_sistemi\ktphane_yonetim\obj\Debug\net9.0\ktphane_yonetim.AssemblyInfo.cs
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\csharp_practice\oop\kutuphane_yonetim_sistemi\ktphane_yonetim\obj\Debug\net9.0\ktphane_yonetim.csproj.CoreCompileInputs.cache
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\csharp_practice\oop\kutuphane_yonetim_sistemi\ktphane_yonetim\obj\Debug\net9.0\ktphane_yonetim.sourcelink.json
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\csharp_practice\oop\kutuphane_yonetim_sistemi\ktphane_yonetim\obj\Debug\net9.0\ktphane_yonetim.dll
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\csharp_practice\oop\kutuphane_yonetim_sistemi\ktphane_yonetim\obj\Debug\net9.0\refint\ktphane_yonetim.dll
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\csharp_practice\oop\kutuphane_yonetim_sistemi\ktphane_yonetim\obj\Debug\net9.0\ktphane_yonetim.pdb
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\csharp_practice\oop\kutuphane_yonetim_sistemi\ktphane_yonetim\obj\Debug\net9.0\ktphane_yonetim.genruntimeconfig.cache
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\csharp_practice\oop\kutuphane_yonetim_sistemi\ktphane_yonetim\obj\Debug\net9.0\ref\ktphane_yonetim.dll

@@ -1,0 +1,15 @@
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\csharp_practice\basic\taxes\tax\bin\Debug\net9.0\tax.exe
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\csharp_practice\basic\taxes\tax\bin\Debug\net9.0\tax.deps.json
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\csharp_practice\basic\taxes\tax\bin\Debug\net9.0\tax.runtimeconfig.json
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\csharp_practice\basic\taxes\tax\bin\Debug\net9.0\tax.dll
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\csharp_practice\basic\taxes\tax\bin\Debug\net9.0\tax.pdb
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\csharp_practice\basic\taxes\tax\obj\Debug\net9.0\tax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\csharp_practice\basic\taxes\tax\obj\Debug\net9.0\tax.AssemblyInfoInputs.cache
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\csharp_practice\basic\taxes\tax\obj\Debug\net9.0\tax.AssemblyInfo.cs
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\csharp_practice\basic\taxes\tax\obj\Debug\net9.0\tax.csproj.CoreCompileInputs.cache
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\csharp_practice\basic\taxes\tax\obj\Debug\net9.0\tax.sourcelink.json
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\csharp_practice\basic\taxes\tax\obj\Debug\net9.0\tax.dll
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\csharp_practice\basic\taxes\tax\obj\Debug\net9.0\refint\tax.dll
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\csharp_practice\basic\taxes\tax\obj\Debug\net9.0\tax.pdb
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\csharp_practice\basic\taxes\tax\obj\Debug\net9.0\tax.genruntimeconfig.cache
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\csharp_practice\basic\taxes\tax\obj\Debug\net9.0\ref\tax.dll
