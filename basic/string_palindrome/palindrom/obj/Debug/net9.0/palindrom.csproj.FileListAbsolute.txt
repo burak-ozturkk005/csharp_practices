@@ -1,0 +1,15 @@
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\csharp_practice\basic\string_palindrome\palindrom\bin\Debug\net9.0\palindrom.exe
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\csharp_practice\basic\string_palindrome\palindrom\bin\Debug\net9.0\palindrom.deps.json
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\csharp_practice\basic\string_palindrome\palindrom\bin\Debug\net9.0\palindrom.runtimeconfig.json
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\csharp_practice\basic\string_palindrome\palindrom\bin\Debug\net9.0\palindrom.dll
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\csharp_practice\basic\string_palindrome\palindrom\bin\Debug\net9.0\palindrom.pdb
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\csharp_practice\basic\string_palindrome\palindrom\obj\Debug\net9.0\palindrom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\csharp_practice\basic\string_palindrome\palindrom\obj\Debug\net9.0\palindrom.AssemblyInfoInputs.cache
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\csharp_practice\basic\string_palindrome\palindrom\obj\Debug\net9.0\palindrom.AssemblyInfo.cs
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\csharp_practice\basic\string_palindrome\palindrom\obj\Debug\net9.0\palindrom.csproj.CoreCompileInputs.cache
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\csharp_practice\basic\string_palindrome\palindrom\obj\Debug\net9.0\palindrom.sourcelink.json
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\csharp_practice\basic\string_palindrome\palindrom\obj\Debug\net9.0\palindrom.dll
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\csharp_practice\basic\string_palindrome\palindrom\obj\Debug\net9.0\refint\palindrom.dll
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\csharp_practice\basic\string_palindrome\palindrom\obj\Debug\net9.0\palindrom.pdb
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\csharp_practice\basic\string_palindrome\palindrom\obj\Debug\net9.0\palindrom.genruntimeconfig.cache
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\csharp_practice\basic\string_palindrome\palindrom\obj\Debug\net9.0\ref\palindrom.dll

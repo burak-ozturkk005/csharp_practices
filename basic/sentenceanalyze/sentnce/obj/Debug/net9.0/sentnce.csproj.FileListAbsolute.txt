@@ -1,0 +1,15 @@
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\csharp_practice\basic\sentenceanalyze\sentnce\bin\Debug\net9.0\sentnce.exe
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\csharp_practice\basic\sentenceanalyze\sentnce\bin\Debug\net9.0\sentnce.deps.json
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\csharp_practice\basic\sentenceanalyze\sentnce\bin\Debug\net9.0\sentnce.runtimeconfig.json
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\csharp_practice\basic\sentenceanalyze\sentnce\bin\Debug\net9.0\sentnce.dll
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\csharp_practice\basic\sentenceanalyze\sentnce\bin\Debug\net9.0\sentnce.pdb
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\csharp_practice\basic\sentenceanalyze\sentnce\obj\Debug\net9.0\sentnce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\csharp_practice\basic\sentenceanalyze\sentnce\obj\Debug\net9.0\sentnce.AssemblyInfoInputs.cache
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\csharp_practice\basic\sentenceanalyze\sentnce\obj\Debug\net9.0\sentnce.AssemblyInfo.cs
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\csharp_practice\basic\sentenceanalyze\sentnce\obj\Debug\net9.0\sentnce.csproj.CoreCompileInputs.cache
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\csharp_practice\basic\sentenceanalyze\sentnce\obj\Debug\net9.0\sentnce.sourcelink.json
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\csharp_practice\basic\sentenceanalyze\sentnce\obj\Debug\net9.0\sentnce.dll
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\csharp_practice\basic\sentenceanalyze\sentnce\obj\Debug\net9.0\refint\sentnce.dll
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\csharp_practice\basic\sentenceanalyze\sentnce\obj\Debug\net9.0\sentnce.pdb
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\csharp_practice\basic\sentenceanalyze\sentnce\obj\Debug\net9.0\sentnce.genruntimeconfig.cache
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\csharp_practice\basic\sentenceanalyze\sentnce\obj\Debug\net9.0\ref\sentnce.dll
