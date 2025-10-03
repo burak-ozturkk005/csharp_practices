@@ -1,0 +1,15 @@
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\csharp_practice\basic\duplicate\dplicate\bin\Debug\net9.0\dplicate.exe
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\csharp_practice\basic\duplicate\dplicate\bin\Debug\net9.0\dplicate.deps.json
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\csharp_practice\basic\duplicate\dplicate\bin\Debug\net9.0\dplicate.runtimeconfig.json
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\csharp_practice\basic\duplicate\dplicate\bin\Debug\net9.0\dplicate.dll
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\csharp_practice\basic\duplicate\dplicate\bin\Debug\net9.0\dplicate.pdb
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\csharp_practice\basic\duplicate\dplicate\obj\Debug\net9.0\dplicate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\csharp_practice\basic\duplicate\dplicate\obj\Debug\net9.0\dplicate.AssemblyInfoInputs.cache
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\csharp_practice\basic\duplicate\dplicate\obj\Debug\net9.0\dplicate.AssemblyInfo.cs
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\csharp_practice\basic\duplicate\dplicate\obj\Debug\net9.0\dplicate.csproj.CoreCompileInputs.cache
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\csharp_practice\basic\duplicate\dplicate\obj\Debug\net9.0\dplicate.sourcelink.json
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\csharp_practice\basic\duplicate\dplicate\obj\Debug\net9.0\dplicate.dll
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\csharp_practice\basic\duplicate\dplicate\obj\Debug\net9.0\refint\dplicate.dll
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\csharp_practice\basic\duplicate\dplicate\obj\Debug\net9.0\dplicate.pdb
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\csharp_practice\basic\duplicate\dplicate\obj\Debug\net9.0\dplicate.genruntimeconfig.cache
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\csharp_practice\basic\duplicate\dplicate\obj\Debug\net9.0\ref\dplicate.dll

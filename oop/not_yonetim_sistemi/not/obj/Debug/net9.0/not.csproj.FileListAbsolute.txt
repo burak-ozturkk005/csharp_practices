@@ -1,0 +1,15 @@
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\csharp_practice\oop\not_yonetim_sistemi\not\bin\Debug\net9.0\not.exe
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\csharp_practice\oop\not_yonetim_sistemi\not\bin\Debug\net9.0\not.deps.json
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\csharp_practice\oop\not_yonetim_sistemi\not\bin\Debug\net9.0\not.runtimeconfig.json
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\csharp_practice\oop\not_yonetim_sistemi\not\bin\Debug\net9.0\not.dll
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\csharp_practice\oop\not_yonetim_sistemi\not\bin\Debug\net9.0\not.pdb
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\csharp_practice\oop\not_yonetim_sistemi\not\obj\Debug\net9.0\not.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\csharp_practice\oop\not_yonetim_sistemi\not\obj\Debug\net9.0\not.AssemblyInfoInputs.cache
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\csharp_practice\oop\not_yonetim_sistemi\not\obj\Debug\net9.0\not.AssemblyInfo.cs
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\csharp_practice\oop\not_yonetim_sistemi\not\obj\Debug\net9.0\not.csproj.CoreCompileInputs.cache
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\csharp_practice\oop\not_yonetim_sistemi\not\obj\Debug\net9.0\not.sourcelink.json
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\csharp_practice\oop\not_yonetim_sistemi\not\obj\Debug\net9.0\not.dll
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\csharp_practice\oop\not_yonetim_sistemi\not\obj\Debug\net9.0\refint\not.dll
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\csharp_practice\oop\not_yonetim_sistemi\not\obj\Debug\net9.0\not.pdb
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\csharp_practice\oop\not_yonetim_sistemi\not\obj\Debug\net9.0\not.genruntimeconfig.cache
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\csharp_practice\oop\not_yonetim_sistemi\not\obj\Debug\net9.0\ref\not.dll
