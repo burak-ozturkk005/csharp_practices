@@ -1,0 +1,15 @@
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\csharp_practice\oop\studentProject\obj\Debug\net9.0\studentProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\csharp_practice\oop\studentProject\obj\Debug\net9.0\studentProject.AssemblyInfoInputs.cache
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\csharp_practice\oop\studentProject\obj\Debug\net9.0\studentProject.AssemblyInfo.cs
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\csharp_practice\oop\studentProject\obj\Debug\net9.0\studentProject.csproj.CoreCompileInputs.cache
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\csharp_practice\oop\studentProject\obj\Debug\net9.0\studentProject.sourcelink.json
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\csharp_practice\oop\studentProject\bin\Debug\net9.0\studentProject.exe
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\csharp_practice\oop\studentProject\bin\Debug\net9.0\studentProject.deps.json
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\csharp_practice\oop\studentProject\bin\Debug\net9.0\studentProject.runtimeconfig.json
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\csharp_practice\oop\studentProject\bin\Debug\net9.0\studentProject.dll
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\csharp_practice\oop\studentProject\bin\Debug\net9.0\studentProject.pdb
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\csharp_practice\oop\studentProject\obj\Debug\net9.0\studentProject.dll
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\csharp_practice\oop\studentProject\obj\Debug\net9.0\refint\studentProject.dll
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\csharp_practice\oop\studentProject\obj\Debug\net9.0\studentProject.pdb
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\csharp_practice\oop\studentProject\obj\Debug\net9.0\studentProject.genruntimeconfig.cache
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\csharp_practice\oop\studentProject\obj\Debug\net9.0\ref\studentProject.dll
