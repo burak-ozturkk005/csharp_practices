@@ -1,0 +1,15 @@
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\csharp_practice\basic\capitalizeword\bin\Debug\net9.0\capitalizeword.exe
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\csharp_practice\basic\capitalizeword\bin\Debug\net9.0\capitalizeword.deps.json
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\csharp_practice\basic\capitalizeword\bin\Debug\net9.0\capitalizeword.runtimeconfig.json
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\csharp_practice\basic\capitalizeword\bin\Debug\net9.0\capitalizeword.dll
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\csharp_practice\basic\capitalizeword\bin\Debug\net9.0\capitalizeword.pdb
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\csharp_practice\basic\capitalizeword\obj\Debug\net9.0\capitalizeword.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\csharp_practice\basic\capitalizeword\obj\Debug\net9.0\capitalizeword.AssemblyInfoInputs.cache
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\csharp_practice\basic\capitalizeword\obj\Debug\net9.0\capitalizeword.AssemblyInfo.cs
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\csharp_practice\basic\capitalizeword\obj\Debug\net9.0\capitalizeword.csproj.CoreCompileInputs.cache
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\csharp_practice\basic\capitalizeword\obj\Debug\net9.0\capitalizeword.sourcelink.json
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\csharp_practice\basic\capitalizeword\obj\Debug\net9.0\capitalizeword.dll
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\csharp_practice\basic\capitalizeword\obj\Debug\net9.0\refint\capitalizeword.dll
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\csharp_practice\basic\capitalizeword\obj\Debug\net9.0\capitalizeword.pdb
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\csharp_practice\basic\capitalizeword\obj\Debug\net9.0\capitalizeword.genruntimeconfig.cache
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\csharp_practice\basic\capitalizeword\obj\Debug\net9.0\ref\capitalizeword.dll
